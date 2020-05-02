@@ -7,3 +7,4 @@ ports:
   - port: 8000 # preview
     onOpen: open-preview
   - port: 35729 # live-reload
+    onOpen: ignore
